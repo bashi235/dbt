@@ -33,9 +33,9 @@ This repository is organized **module-wise**, where each module includes:
 
 Each module follows a consistent pattern:
 - Module_X/
-│
-├── Notes (Concepts)
-├── Interview Questions
+- │
+- ├── Notes (Concepts)
+- ├── Interview Questions
 
 ---
 
