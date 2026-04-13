@@ -32,7 +32,7 @@ This repository is organized **module-wise**, where each module includes:
 ## 📂 Repository Structure
 
 Each module follows a consistent pattern:
-Module_X/
+- Module_X/
 │
 ├── Notes (Concepts)
 ├── Interview Questions
